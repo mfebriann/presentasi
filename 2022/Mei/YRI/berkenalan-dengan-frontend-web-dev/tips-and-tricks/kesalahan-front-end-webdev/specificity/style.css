@@ -1,0 +1,11 @@
+.deskripsi {
+	color: red;
+}
+
+body .deskripsi-dua {
+	color: blue;
+}
+
+.deskripsi-dua {
+	color: pink;
+}
